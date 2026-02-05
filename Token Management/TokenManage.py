@@ -1,7 +1,6 @@
 import keyword
 import re
 
-# Order matters: longest operators first
 operators = ["==", "!=", "<=", ">=", "//", "**", "+", "-", "*", "/", "=", "<", ">", "%"]
 symbols = ["(", ")", "{", "}", "[", "]", ",", ":", ".", ";"]
 
